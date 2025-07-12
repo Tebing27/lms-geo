@@ -36,11 +36,3 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
-=======
-# lms-geo
->>>>>>> e4223654cc2c861b9e98b182bc889fee3ba3a866
-=======
-# Proyek LMS Saya
-
-Learning Management System dibangun dengan Next.js dan Supabase.
->>>>>>> 1ba7a02e0fa74538b8a83e7f3bd920b2d4b9ede9
