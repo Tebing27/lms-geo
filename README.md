@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
@@ -38,3 +39,8 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/bui
 =======
 # lms-geo
 >>>>>>> e4223654cc2c861b9e98b182bc889fee3ba3a866
+=======
+# Proyek LMS Saya
+
+Learning Management System dibangun dengan Next.js dan Supabase.
+>>>>>>> 1ba7a02e0fa74538b8a83e7f3bd920b2d4b9ede9
